@@ -8,7 +8,7 @@ int main()
     cin>>x;
     for(int i = 1; i<=x ; i++)
     {
-        cout<<i<<"    "<<i*i<<endl;
+        cout<<i<<"    "<<i+i<<endl;
     }
     return 0;
 }
